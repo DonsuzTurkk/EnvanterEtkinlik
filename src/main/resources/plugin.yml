@@ -1,0 +1,8 @@
+name: EnvanterEtkinlik
+version: 1.0
+main: tr.donsuzturk.envanteretkinlik.EnvanterEtkinlik
+api-version: 1.16
+authors: [ DonsuzTurk ]
+commands:
+  envanteretkinlik:
+    description: Etkinliği başlatır.

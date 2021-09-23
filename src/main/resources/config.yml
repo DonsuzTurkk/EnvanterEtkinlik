@@ -1,0 +1,6 @@
+mesaj: "&6&lEtkinlik &8| &eEnvanter etkinliği tamamlandı ve hediyeler teslim edildi."
+
+komutlar:
+  - "minecraft:execute @a ~ ~ ~ eco give @p 100"
+  - "minecraft:execute @a ~ ~ ~ give @p diamond 16"
+  - "minecraft:execute @a ~ ~ ~ crazycrates give p para 1 @p"
